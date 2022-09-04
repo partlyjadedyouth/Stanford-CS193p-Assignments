@@ -12,6 +12,7 @@
 		BF66E28A28BCEBA400E6610C /* BasicSetGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF66E28928BCEBA400E6610C /* BasicSetGame.swift */; };
 		BF66E28C28BE019800E6610C /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF66E28B28BE019800E6610C /* Card.swift */; };
 		BF66E29028BF2A9C00E6610C /* Diamond.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF66E28F28BF2A9C00E6610C /* Diamond.swift */; };
+		BF698BA128C071DF0027B2BE /* Squiggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF698BA028C071DF0027B2BE /* Squiggle.swift */; };
 		BFAEC5DB28BCD063008AA5B2 /* SetGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAEC5DA28BCD063008AA5B2 /* SetGameApp.swift */; };
 		BFAEC5DD28BCD063008AA5B2 /* SetGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFAEC5DC28BCD063008AA5B2 /* SetGameView.swift */; };
 		BFAEC5DF28BCD064008AA5B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFAEC5DE28BCD064008AA5B2 /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		BF66E28928BCEBA400E6610C /* BasicSetGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicSetGame.swift; sourceTree = "<group>"; };
 		BF66E28B28BE019800E6610C /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		BF66E28F28BF2A9C00E6610C /* Diamond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diamond.swift; sourceTree = "<group>"; };
+		BF698BA028C071DF0027B2BE /* Squiggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squiggle.swift; sourceTree = "<group>"; };
 		BFAEC5D728BCD063008AA5B2 /* SetGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SetGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFAEC5DA28BCD063008AA5B2 /* SetGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetGameApp.swift; sourceTree = "<group>"; };
 		BFAEC5DC28BCD063008AA5B2 /* SetGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetGameView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				BFAEC5DA28BCD063008AA5B2 /* SetGameApp.swift */,
 				BFAEC5DC28BCD063008AA5B2 /* SetGameView.swift */,
 				BF66E28F28BF2A9C00E6610C /* Diamond.swift */,
+				BF698BA028C071DF0027B2BE /* Squiggle.swift */,
 				BF66E28728BCEB8E00E6610C /* SetGame.swift */,
 				BF66E28B28BE019800E6610C /* Card.swift */,
 				BF66E28928BCEBA400E6610C /* BasicSetGame.swift */,
@@ -154,6 +157,7 @@
 			files = (
 				BFAEC5DD28BCD063008AA5B2 /* SetGameView.swift in Sources */,
 				BF66E28C28BE019800E6610C /* Card.swift in Sources */,
+				BF698BA128C071DF0027B2BE /* Squiggle.swift in Sources */,
 				BF66E28A28BCEBA400E6610C /* BasicSetGame.swift in Sources */,
 				BF66E29028BF2A9C00E6610C /* Diamond.swift in Sources */,
 				BFAEC5DB28BCD063008AA5B2 /* SetGameApp.swift in Sources */,
